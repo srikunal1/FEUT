@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1541478998233" clover="3.2.0">
+	<project timestamp="1541478998233"  name="All Files" >
+		<metrics statements="9"  coveredstatements="7"  conditionals="4"  coveredconditionals="4"  methods="4"  coveredmethods="2"  elements="17"  coveredelements="13"  complexity="0"  packages="1"  files="1"  classes="1"  loc="21"  ncloc="21" />
+		<package name="js" >
+			<metrics statements="9"  coveredstatements="7"  conditionals="4"  coveredconditionals="4"  methods="4"  coveredmethods="2" />
+			<file name="a.js"  path="/home/kaaldhruv/local_rep/FEUT/src/js/a.js" >
+				<metrics statements="9"  coveredstatements="7"  conditionals="4"  coveredconditionals="4"  methods="4"  coveredmethods="2" />
+				<line num="1"  count="1"  type="stmt" />
+				<line num="3"  count="1"  type="stmt" />
+				<line num="6"  count="0"  type="stmt" />
+				<line num="9"  count="0"  type="stmt" />
+				<line num="12"  count="3"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="13"  count="1"  type="stmt" />
+				<line num="16"  count="2"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="18"  count="1"  type="stmt" />
+				<line num="21"  count="2"  type="stmt" />
+			</file>
+		</package>
+	</project>
+</coverage>
